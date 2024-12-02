@@ -132,7 +132,7 @@ Chaque niveau se termine par un boss avec des mécaniques uniques :
 ## **8. Systèmes et Outils**
 
 ### **8.1. Moteur de Jeu**
-- **Unity** : Pour sa flexibilité et son écosystème riche.  
+- **SFML** 
 
 ### **8.2. Logiciels Recommandés**
 - Pixel art : **Aseprite** pour les sprites et animations.  
