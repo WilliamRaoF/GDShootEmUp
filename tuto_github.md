@@ -31,7 +31,7 @@ Une fois cloné, le dépôt s’ouvre dans l’Explorateur de solutions. Vous po
 
 ### **Créer un nouveau projet** :
 1. Dans Visual Studio, cliquez sur **Fichier > Nouveau projet**.
-2. Sélectionnez un modèle de projet (exemple : Console App .NET).
+2. Sélectionnez un modèle de projet (exemple : Projet Vide C++).
 3. Une fois le projet créé, allez dans le menu **Git > Créer un dépôt Git**.
 
 ### **Publier sur GitHub** :
